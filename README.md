@@ -164,8 +164,9 @@ Power BI or Tableau.
 
 This project focuses purely on SQL-based analytics and transformation
 logic.\
-Visualization and dashboard creation are intentionally excluded to keep
-the scope centered on data analysis.
+Power BI is used  for visualization and measure-based calculations.
+All data transformation and business logic are handled in SQL.
+
 
 
 ------------------------------------------------------------------------
