@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard.png)
+
 # Sales Analytics Project (SQL)
 
 ## Project Overview
